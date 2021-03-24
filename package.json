@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-firebase-analytics",
+  "name": "cordova-plugin-pvt-firebase-analytics",
   "version": "5.0.0",
   "description": "Cordova plugin for Firebase Analytics",
   "cordova": {
@@ -9,17 +9,8 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-firebase-analytics.git"
-  },
   "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/chemerisuk/cordova-plugin-firebase-analytics/issues"
-  },
-  "homepage": "https://github.com/chemerisuk/cordova-plugin-firebase-analytics#readme",
-  "funding": "https://github.com/chemerisuk/cordova-plugin-firebase-analytics?sponsor=1",
   "keywords": [
     "cordova",
     "firebase",
