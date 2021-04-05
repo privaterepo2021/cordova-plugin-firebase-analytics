@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-pvt-firebase-analytics",
+  "name": "cordova-plugin-pvt-analytics",
   "version": "5.0.0",
   "description": "Cordova plugin for Firebase Analytics",
   "cordova": {
-    "id": "cordova-plugin-firebase-analytics",
+    "id": "cordova-plugin-analytics",
     "platforms": [
       "ios",
       "android"
