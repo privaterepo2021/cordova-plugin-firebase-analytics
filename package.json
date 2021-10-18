@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-pvt-analytics",
+  "name": "cordova-plugin-ebw-analytics",
   "version": "6.0.2",
   "description": "Cordova plugin for Firebase Analytics",
   "cordova": {
